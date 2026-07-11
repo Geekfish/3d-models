@@ -4,6 +4,8 @@ A low-profile replacement handle for a sliding patio door, originally made by
 Scheleger's and sadly now out of production. Modelled parametrically in
 [OpenSCAD](https://openscad.org/).
 
+![OpenSCAD preview of the door handle mounting plate](screenshot.png)
+
 ## Links
 
 - **MakerWorld:** _TODO: add link_
