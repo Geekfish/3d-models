@@ -1,3 +1,3 @@
-.DS_Store
-priv/*
-renders/*
+*.DS_Store
+*/priv/*
+*/renders/*
