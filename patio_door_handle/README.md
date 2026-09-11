@@ -8,8 +8,8 @@ Scheleger's and sadly now out of production. Modelled parametrically in
 
 ## Links
 
-- **MakerWorld:** _TODO: add link_
-- _TODO: add other maker platform links_
+- **[Download in MakerWorld](https://makerworld.com/en/models/3039501-sliding-door-patio-handle-scheleger-180-135mm)**
+- **[Download in Printables](https://www.printables.com/model/1793023-sliding-door-patio-handle-scheleger-180135mm)**
 
 ## Dimensions
 
