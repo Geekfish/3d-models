@@ -7,7 +7,7 @@ Elevator door replacement part. Modelled parametrically in [OpenSCAD](https://op
 
 ## Links
 
-- **[Download in MakerWorld] TODO**
+- **[Download in MakerWorld](https://makerworld.com/en/models/3291888-elevator-door-slider-hinge)**
 - **[Download in Printables] TODO**
 
 ## Main Block Dimensions
@@ -18,7 +18,7 @@ Elevator door replacement part. Modelled parametrically in [OpenSCAD](https://op
 
 ## Assembly
 
-⚠️ **MUST BE FITTED WITH AN M8x1x12mm HEAT INSERT**
+⚠️ **MUST BE FITTED WITH AN M8x1x12mm HEAT INSERT ([example from Amazon UK](https://amzn.to/3UMUOET))**
 
 ## License
 
